@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Kumar Akshat
+I am a current MIS Grad Student at Utah State University
+
+
+
 <!--
 **iaxat/iaxat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
