@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... News Collection and Sentiment Analysis
-- 🌱 I’m currently learning ... JavaScript ES6
+- 🌱 I’m currently learning ... JavaScript ES6, SQL
 - 👯 I’m looking to collaborate on ... Sentiment Analysis Projects
 - 🤔 I’m looking for help with ... Anything that has to do with Python, JavaScript, and Database
 - 💬 Ask me about ... My projects
